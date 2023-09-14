@@ -1,0 +1,13 @@
+.grid-container {
+    margin: 2% auto;
+}
+
+.grid {
+    white-space: pre;
+    background-color: rgb(241, 239, 239);
+}
+
+button {
+    margin: 3px;
+    padding: 5px;
+}
